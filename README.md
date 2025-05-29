@@ -18,6 +18,10 @@
 ![image](https://github.com/user-attachments/assets/55870a59-fcb3-4f0d-a799-6e40256a8ea7)
 
 - ul and ol must only directly contain li, script, or template elements: It specifies the use of Ordered List and Unordered List and elements inside them, when not structured right they tend to affect the accessibility of the web page.
-  
+
+## Severity of issues
+![image](https://github.com/user-attachments/assets/c08a3a28-519c-4e69-b304-b13c5f0dba8a)
+- It also lists down the Severity of the issue however it depends on the stakeholders how much of an issue/concern it is and how it impacts the accessibility of the web page
+
 
 
