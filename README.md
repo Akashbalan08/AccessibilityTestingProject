@@ -17,7 +17,7 @@
 
 ![image](https://github.com/user-attachments/assets/55870a59-fcb3-4f0d-a799-6e40256a8ea7)
 
-- <ul> and <ol> must only directly contain <li>, <script>, or <template> elements: It specifies the use of Ordered List and Unordered List and elements inside them, when not structured right they tend to affect the accessibility of the web page.
+- ul and ol must only directly contain li, script, or template elements: It specifies the use of Ordered List and Unordered List and elements inside them, when not structured right they tend to affect the accessibility of the web page.
   
 
 
